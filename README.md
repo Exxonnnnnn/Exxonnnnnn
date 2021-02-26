@@ -1,12 +1,12 @@
 ## Hello 👋
 ### One day I'll be able to call myself a developer. Until then, I will continue to attempt to code (mainly Discord bots).
-#### Links:
-[Website](https://creativedevelopments.org)  
-[Support Bot [BETA]](https://top.gg/bot/792590833467654166)  
-[Support Server](https://discord.gg/jUNbV5u)  
-[Discord - Exxon#0293](https://creativedevelopments.org)  
-[CDCommands](https://npmjs.com/cdcommands)  
-[CDTickets](https://npmjs.com/cdtickets)  
+Links:
+- [Website](https://creativedevelopments.org)  
+- [Support Bot [BETA]](https://top.gg/bot/792590833467654166)  
+- [Support Server](https://discord.gg/jUNbV5u)  
+- [Discord - Exxon#0293](https://creativedevelopments.org)  
+- [CDCommands --> Command / Event Handler for Discord.js Bots](https://npmjs.com/cdcommands)  
+- [CDTickets --> Easy to use ticket package for Discord.js Bots](https://npmjs.com/cdtickets)  
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)
 
