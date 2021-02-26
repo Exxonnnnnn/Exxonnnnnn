@@ -4,7 +4,9 @@
 [Website](https://creativedevelopments.org)  
 [Support Bot [BETA]](https://top.gg/bot/792590833467654166)  
 [Support Server](https://discord.gg/jUNbV5u)  
-[Discord - Exxon#0293](https://creativedevelopments.org)
+[Discord - Exxon#0293](https://creativedevelopments.org)  
+[CDCommands](https://npmjs.com/cdcommands)  
+[CDTickets](https://npmjs.com/cdtickets)  
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)
 
