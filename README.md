@@ -5,7 +5,7 @@ Links:
 - [Support Bot [BETA]](https://top.gg/bot/792590833467654166)  
 - [Support Server](https://discord.gg/jUNbV5u)  
 - [Discord - Exxon#0293](https://creativedevelopments.org)  
-- [CDCommands --> Command / Event Handler for Discord.js Bots](https://npmjs.com/cdcommands)  
+- [CDCommands --> Command / Event Handler for Discord.js Bots with build in default commands such as per server prefix's, required roles etc](https://npmjs.com/cdcommands)  
 - [CDTickets --> Easy to use ticket package for Discord.js Bots](https://npmjs.com/cdtickets)  
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)
