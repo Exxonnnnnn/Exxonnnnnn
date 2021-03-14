@@ -2,7 +2,8 @@
 ### One day I'll be able to call myself a developer. Until then, I will continue to attempt to code (mainly Discord bots).
 Links:
 - [Website](https://creativedevelopments.org)  
-- [Support Bot [BETA]](https://top.gg/bot/792590833467654166)  
+- [Support Bot](https://top.gg/bot/792590833467654166)  
+- [Trader Bot --> COMING SOON!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [Support Server](https://discord.gg/jUNbV5u)  
 - [Discord - Exxon#0293](https://creativedevelopments.org)  
 - [CDCommands --> Command / Event Handler for Discord.js Bots with build in default commands such as per server prefix's, required roles etc](https://npmjs.com/cdcommands)  
