@@ -6,8 +6,13 @@ Links:
 - [Trader Bot --> COMING SOON!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [Support Server](https://discord.gg/jUNbV5u)  
 - [Discord - Exxon#0293](https://creativedevelopments.org)  
+
+<br>
+
+Packages:
 - [CDCommands --> Command / Event Handler for Discord.js Bots with build in default commands such as per server prefix's, required roles etc](https://npmjs.com/cdcommands)  
 - [CDTickets --> Easy to use ticket package for Discord.js Bots](https://npmjs.com/cdtickets)  
+- [discord-rick-roll --> Kinda just a meme package, if you wan't to be added just make a PR](https://npmjs.com/discord-rick-roll)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)
 
