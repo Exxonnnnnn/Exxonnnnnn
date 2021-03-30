@@ -39,11 +39,11 @@ Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK i
 - Big updates coming soon 👀
 
 ### [CDTickets](https://npmjs.com/cdtickets)
-An easy to use tickets package for Discord.js bots. 
+An easy to use tickets package for Discord.js bots.   
 **NOTE** - This package is going to be completely re done and will have support for MongoDB in v2, there may be some issues with the current version. If you are using [CDCommands](https://npmjs.com/cdcommands) as your handler I would not recommend using CDTickets as we will be adding tickets to CDCommands in one of the next major updates.
 
 ### [Discord Rick Roll](https://npmjs.com/discord-rick-roll)
-This is basically just a meme package that returns with rick rolls for everything. If you are looking for a serious package please do not use this. 
+This is basically just a meme package that returns with rick rolls for everything. If you are looking for a serious package please do not use this.   
 If you want to be added to the package just open a [pull request](https://github.com/Exxonnnnnn/discord-rick-roll).
 
 <br>
