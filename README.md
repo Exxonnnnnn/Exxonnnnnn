@@ -49,11 +49,11 @@ If you want to be added to the package just open a [pull request](https://github
 
 <br>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)](https://discord.gg/jUNbV5u)
 
 <br>
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia)](https://github.com/exxonnnnnn/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia)](https://npmjs.com/cdcommands)
 
 <br>
 
