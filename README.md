@@ -24,10 +24,11 @@ For any issues with our packages please join our [Support Server](https://discor
 An advanced handler for Discord.js bots. [View it on NPM](https://npmjs.com/cdcommands)
 
 - Command / Event / Feature Handler
-- Default Commands (Required Roles, Help, Command / Category, Setprefix, Language [Language coming in the next update])
-- Support for [multiple languages](https://github.com/CreativeDevelopments/CDCommands/blob/main/SUPPORTED_LANGS.md) and allows people using your bot to set a language per guild and per user. (Coming very soon)
+- Default Commands (Required Roles, Help, Command / Category, Setprefix, Language [Per Server / User])
+- Support for [multiple languages](https://github.com/CreativeDevelopments/CDCommands/blob/main/SUPPORTED_LANGS.md) and allows people using your bot to set a language per guild and per user.
 - Default Embeds and Logs
 - Customisable responses using the [message.json](https://github.com/CreativeDevelopments/CDCommands/blob/main/src/Base/message.json) (Note that this is the new message.json, this one won't currently work with the version that is released. You can get the version you need [here](https://sourceb.in/PS5fAiFVYQ))
+- Option to not load selected default commands
 - Want to add more Languages or contribute? Open a [pull request](https://github.com/CreativeDevelopments/CDCommands)
 - See what we are adding next [here](https://github.com/CreativeDevelopments/CDCommands/blob/main/TODO.md)
 
