@@ -11,9 +11,9 @@
 
 <br>
 
-## What do I use?
+## What do I use / Learning to use?
 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" /><img alt="mongoDB" src="https://img.shields.io/badge/-mongoDB-4fb23f?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=for-the-badge&logo=javascript&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-008FFF?style=for-the-badge&logo=typescript&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/-CoffeeScript-524B31?style=for-the-badge&logo=coffeescript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /><img alt="mongoDB" src="https://img.shields.io/badge/-mongoDB-4fb23f?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br>
 
