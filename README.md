@@ -23,34 +23,78 @@
 
 <br>
 
-## Packages:
-For any issues with our packages please join our [Support Server](https://discord.gg/jUNbV5u)
+# [Packages](https://docs.creativedevelopments.org/home)
+For any issues with our packages please join our [Support Server](https://discord.gg/jUNbV5u). You can view the [documentation for our packages, here.](https://docs.creativedevelopments.org/home)
 
-### [CDCommands](https://npmjs.com/cdcommands)
-An advanced handler for Discord.js bots. [View it on NPM](https://npmjs.com/cdcommands)
+## [CDGen](https://npmjs.com/package/cdgen)
+A project generator for [CDCommands](https://docs.creativedevelopments.org/cdcommands) and [CDHandler](https://docs.creativedevelopments.org/cdhandler)
 
-- Command / Event / Feature Handler
+### Links
+
+- [NPM](https://npmjs.com/package/cdgen)
+- [GitHub](https://github.com/CreativeDevelopments/CDGen)
+- [Documentation](https://docs.creativedevelopments.org/cdgen)
+
+## [CDCommands](https://npmjs.com/package/cdcommands)
+An advanced handler for Discord.js bots. 
+
+### Links
+
+- [NPM](https://npmjs.com/package/cdcommands)
+- [GitHub](https://github.com/CreativeDevelopments/CDCommands)
+- [Documentation](https://docs.creativedevelopments.org/cdcommands)
+
+- Works with TypeScript and JavaScript
+- MongoDB Support
 - Default Commands (Required Roles, Help, Command / Category, Setprefix, Language [Per Server / User])
-- Support for [multiple languages](https://github.com/CreativeDevelopments/CDCommands/blob/main/SUPPORTED_LANGS.md) and allows people using your bot to set a language per guild and per user.
-- Default Embeds and Logs
-- Customisable responses using the [message.json](https://github.com/CreativeDevelopments/CDCommands/blob/main/src/Base/message.json) 
-- Option to not load selected default commands
-- Want to add more Languages or contribute? Open a [pull request](https://github.com/CreativeDevelopments/CDCommands)
-- See what we are adding next [here](https://github.com/CreativeDevelopments/CDCommands/blob/main/TODO.md)
+- Argument Validator
+- Customisable responses through the [message.json](https://github.com/CreativeDevelopments/CDCommands/blob/main/src/Base/message.json)
+- Option to not load selected default commands / custom message event
+- Client utils
+- Support for multiple languages (You can view the supported langs [here, on our Documentation](https://docs.creativedevelopments.org/cdcommands/development/supported-languages))
+- Want to contribute? Read more [here](https://docs.creativedevelopments.org/cdcommands/development/contribute)
 
-### [CDColours](https://npmjs.com/cdcolours)
-Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK is a vibe. [View it on NPM](https://npmjs.com/cdcolours)
+## [CDColours](https://npmjs.com/package/cdcolours)
+Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK is a vibe. 
 
 - Support for both TypeScript and JavaScript
-- Works with Portugese and English
+- Works with Portugese, Italian, Hindi and English
 - Big updates coming soon 👀
 
-### [CDTickets](https://npmjs.com/cdtickets)
-An easy to use tickets package for Discord.js bots.   
-**NOTE** - This package is going to be completely re done and will have support for MongoDB in v2, there may be some issues with the current version.  
-If you are using [CDCommands](https://npmjs.com/cdcommands) as your handler I would not recommend using CDTickets as we will be adding tickets to CDCommands in one of the next major updates.
+### Links
 
-### [Discord Rick Roll](https://npmjs.com/discord-rick-roll)
+- [NPM](https://npmjs.com/package/cdcolours)
+- [GitHub](https://github.com/CreativeDevelopments/CDColours)
+- [Documentation](https://docs.creativedevelopments.org/cdcolours)
+
+## [CDHandler](https://npmjs.com/package/cdhandler)
+An easy to use command / event handler for Discord.js bots
+
+- Commands / Events / Features
+- TypeScript, JavaScript and CoffeeScript support
+- MongoDB Support
+- Default Commands (help)
+
+### Links
+
+- [NPM](https://npmjs.com/package/cdhandler)
+- [GitHub](https://github.con/CreativeDevelopments/CDHandler)
+- [Documentation](https://docs.creativedevelopments.org/cdhandler)
+
+## [CDTickets](https://npmjs.com/package/cdtickets)
+An easy to use tickets package for Discord.js bots.
+
+> **NOTE** - This package is going to be completely re done and will have support for MongoDB in v2, there may be some issues with the current version.  
+> If you are using [CDCommands](https://npmjs.com/cdcommands) as your handler I would not recommend using CDTickets as we will be adding tickets to CDCommands in one of the next > major updates.
+
+### Links
+
+- [NPM](https://npmjs.com/package/cdtickets)
+- [GitHub](https://github.com/CreativeDevelopments/CDTickets)
+
+
+
+## [Discord Rick Roll](https://npmjs.com/discord-rick-roll)
 This is basically just a meme package that returns with rick rolls for everything. If you are looking for a serious package please do not use this.   
 If you want to be added to the package just open a [pull request](https://github.com/Exxonnnnnn/discord-rick-roll).
 
