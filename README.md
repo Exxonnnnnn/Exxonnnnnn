@@ -38,12 +38,6 @@ A project generator for [CDCommands](https://docs.creativedevelopments.org/cdcom
 ## [CDCommands](https://npmjs.com/package/cdcommands)
 An advanced handler for Discord.js bots. 
 
-### Links
-
-- [NPM](https://npmjs.com/package/cdcommands)
-- [GitHub](https://github.com/CreativeDevelopments/CDCommands)
-- [Documentation](https://docs.creativedevelopments.org/cdcommands)
-
 - Works with TypeScript and JavaScript
 - MongoDB Support
 - Default Commands (Required Roles, Help, Command / Category, Setprefix, Language [Per Server / User])
@@ -53,6 +47,12 @@ An advanced handler for Discord.js bots.
 - Client utils
 - Support for multiple languages (You can view the supported langs [here, on our Documentation](https://docs.creativedevelopments.org/cdcommands/development/supported-languages))
 - Want to contribute? Read more [here](https://docs.creativedevelopments.org/cdcommands/development/contribute)
+
+### Links
+
+- [NPM](https://npmjs.com/package/cdcommands)
+- [GitHub](https://github.com/CreativeDevelopments/CDCommands)
+- [Documentation](https://docs.creativedevelopments.org/cdcommands)
 
 ## [CDColours](https://npmjs.com/package/cdcolours)
 Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK is a vibe. 
