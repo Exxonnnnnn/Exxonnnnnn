@@ -1,5 +1,5 @@
-## Hello 👋
-### One day I'll be able to call myself a developer. Until then, I will continue to attempt to code (mainly Discord bots).
+# Hello 👋 <img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=exxonnnnnn&color=00dcff" />
+One day I'll be able to call myself a developer. Until then, I will continue to attempt to code (mainly Discord bots).
 
 ## Links:
 
