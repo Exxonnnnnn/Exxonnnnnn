@@ -1,15 +1,16 @@
 <img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=exxonnnnnn&color=00dcff" />
 
-# Hello 👋 
+# Hello 👋
+
 One day I'll be able to call myself a developer. Until then, I will continue to attempt to code (mainly Discord bots).
 
 ## Links:
 
-- [Website](https://creativedevelopments.org)  
-- [Support Bot](https://discord.com/oauth2/authorize?client_id=792590833467654166&permissions=2118118527&redirect_uri=https%3A%2F%2Fcreativedevelopments.org&response_type=code&scope=bot%20identify%20applications.commands)  
-- [Trader Bot --> COMING SOON!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-- [Support Server](https://discord.gg/jUNbV5u)  
-- [Discord - Exxon#0293](https://creativedevelopments.org)  
+- [Website](https://creativedevelopments.org)
+- [Support Bot](https://discord.com/oauth2/authorize?client_id=792590833467654166&permissions=2118118527&redirect_uri=https%3A%2F%2Fcreativedevelopments.org&response_type=code&scope=bot%20identify%20applications.commands)
+- [Trader Bot --> COMING SOON!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Support Server](https://discord.gg/jUNbV5u)
+- [Discord - Exxon#0293](https://creativedevelopments.org)
 
 <br>
 
@@ -26,9 +27,11 @@ One day I'll be able to call myself a developer. Until then, I will continue to 
 <br>
 
 # [Packages](https://docs.creativedevelopments.org/home)
+
 For any issues with our packages please join our [Support Server](https://discord.gg/jUNbV5u). You can view the [documentation for our packages, here.](https://docs.creativedevelopments.org/home)
 
 ## [CDGen](https://npmjs.com/package/cdgen)
+
 A project generator for [CDCommands](https://docs.creativedevelopments.org/cdcommands) and [CDHandler](https://docs.creativedevelopments.org/cdhandler)
 
 ### Links
@@ -38,7 +41,8 @@ A project generator for [CDCommands](https://docs.creativedevelopments.org/cdcom
 - [Documentation](https://docs.creativedevelopments.org/cdgen)
 
 ## [CDCommands](https://npmjs.com/package/cdcommands)
-An advanced handler for Discord.js bots. 
+
+An advanced handler for Discord.js bots.
 
 - Works with TypeScript and JavaScript
 - MongoDB Support
@@ -57,7 +61,8 @@ An advanced handler for Discord.js bots.
 - [Documentation](https://docs.creativedevelopments.org/cdcommands)
 
 ## [CDColours](https://npmjs.com/package/cdcolours)
-Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK is a vibe. 
+
+Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK is a vibe.
 
 - Support for both TypeScript and JavaScript
 - Works with Portugese, Italian, Hindi and English
@@ -70,6 +75,7 @@ Make your console colourful! Yes it is spelt "Colours" not "Colors" because UK i
 - [Documentation](https://docs.creativedevelopments.org/cdcolours)
 
 ## [CDHandler](https://npmjs.com/package/cdhandler)
+
 An easy to use command / event handler for Discord.js bots
 
 - Commands / Events / Features
@@ -84,6 +90,7 @@ An easy to use command / event handler for Discord.js bots
 - [Documentation](https://docs.creativedevelopments.org/cdhandler)
 
 ## [CDTickets](https://npmjs.com/package/cdtickets)
+
 An easy to use tickets package for Discord.js bots.
 
 > **NOTE** - This package is going to be completely re done and will have support for MongoDB in v2, there may be some issues with the current version.  
@@ -94,36 +101,71 @@ An easy to use tickets package for Discord.js bots.
 - [NPM](https://npmjs.com/package/cdtickets)
 - [GitHub](https://github.com/CreativeDevelopments/CDTickets)
 
+<br>
 
+# Some Statistics
 
-## [Discord Rick Roll](https://npmjs.com/discord-rick-roll)
-This is basically just a meme package that returns with rick rolls for everything. If you are looking for a serious package please do not use this.   
-If you want to be added to the package just open a [pull request](https://github.com/Exxonnnnnn/discord-rick-roll).
+<style type="text/css"> 
+td {
+    border: 1px solid #333
+}
+</style>
+
+<table>
+    <tr>
+        <td>
+            <a href="https://discord.gg/jUNbV5u">
+                <img src="https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia">
+            </a>
+        </td>
+        <td>
+            <a href="https://discord.gg/jUNbV5u">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <br>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia)](https://discord.gg/jUNbV5u)
+# Some Repositories
 
-<br>
-
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia)](https://npmjs.com/cdcommands)
-
-<br>
-
-[![CDCommands](https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcommands&theme=algolia)](https://github.com/creativedevelopments/cdcommands)
-
-<!--
-**Exxonnnnnn/Exxonnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<table>
+    <tr>
+        <td>
+            <a href="https://docs.creativedevelopments.org/cdcommands">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcommands&theme=algolia">
+            </a>
+        </td>
+        <td>
+            <a href="https://docs.creativedevelopments.org/cdgen">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdgen&theme=algolia">
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://docs.creativedevelopments.org/cdcolours">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcolours&theme=algolia">
+            </a>
+        </td>
+        <td>
+            <a href="https://docs.creativedevelopments.org/cdhandler">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdhandler&theme=algolia">
+            </a>
+        </td>
+    </tr>
+        </tr>
+        <tr>
+        <td>
+            <a href="https://docs.creativedevelopments.org/home">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=examples&theme=algolia">
+            </a>
+        </td>
+        <td>
+            <a href="https://discord.gg/jUNbV5u">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=exxonnnnnn&repo=notes&theme=algolia">
+            </a>
+        </td>
+    </tr>
+</table>
