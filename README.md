@@ -105,12 +105,6 @@ An easy to use tickets package for Discord.js bots.
 
 # Some Statistics
 
-<style type="text/css"> 
-td {
-    border: 1px solid #333
-}
-</style>
-
 <table>
     <tr>
         <td>
