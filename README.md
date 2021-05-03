@@ -88,7 +88,7 @@ An easy to use command / event handler for Discord.js bots
 An easy to use tickets package for Discord.js bots.
 
 > **NOTE** - This package is going to be completely re done and will have support for MongoDB in v2, there may be some issues with the current version.  
-> If you are using [CDCommands](https://npmjs.com/cdcommands) as your handler I would not recommend using CDTickets as we will be adding tickets to CDCommands in one of the next > major updates.
+> If you are using [CDCommands](https://npmjs.com/cdcommands) as your handler I would not recommend using CDTickets as we will be adding tickets to CDCommands in one of the next major updates.
 
 ### Links
 
