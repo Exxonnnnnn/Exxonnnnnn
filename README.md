@@ -103,12 +103,19 @@ An easy to use tickets package for Discord.js bots.
     <tr>
         <td>
             <a href="https://discord.gg/jUNbV5u">
-                <img src="https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api?username=exxonnnnnn&count_private=true&show_icons=true&theme=algolia" alt="Stats">
             </a>
         </td>
         <td>
             <a href="https://discord.gg/jUNbV5u">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxonnnnnn&layout=compact&theme=algolia" alt="Languages">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://discord.gg/jUNbV5u">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=exxonnnnnn&theme=algolia" alt="GitHub-Streak">
             </a>
         </td>
     </tr>
@@ -122,24 +129,24 @@ An easy to use tickets package for Discord.js bots.
     <tr>
         <td>
             <a href="https://docs.creativedevelopments.org/cdcommands">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcommands&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcommands&theme=algolia" alt="CDCommands">
             </a>
         </td>
         <td>
             <a href="https://docs.creativedevelopments.org/cdgen">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdgen&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdgen&theme=algolia" alt="CDGen">
             </a>
         </td>
     </tr>
         <tr>
         <td>
             <a href="https://docs.creativedevelopments.org/cdcolours">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcolours&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdcolours&theme=algolia" alt="CDColours">
             </a>
         </td>
         <td>
             <a href="https://docs.creativedevelopments.org/cdhandler">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdhandler&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=cdhandler&theme=algolia" alt="CDHandler">
             </a>
         </td>
     </tr>
@@ -147,12 +154,12 @@ An easy to use tickets package for Discord.js bots.
         <tr>
         <td>
             <a href="https://docs.creativedevelopments.org/home">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=examples&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=creativedevelopments&repo=examples&theme=algolia" alt="Examples">
             </a>
         </td>
         <td>
             <a href="https://discord.gg/jUNbV5u">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=exxonnnnnn&repo=notes&theme=algolia">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=exxonnnnnn&repo=notes&theme=algolia" alt="Notes">
             </a>
         </td>
     </tr>
