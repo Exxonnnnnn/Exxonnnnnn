@@ -158,7 +158,7 @@ An easy to use tickets package for Discord.js bots.
             </a>
         </td>
         <td>
-            <a href="https://discord.gg/jUNbV5u">
+            <a href="https://github.com/Exxonnnnnn/notes">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=exxonnnnnn&repo=notes&theme=algolia" alt="Notes">
             </a>
         </td>
